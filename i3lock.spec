@@ -1,11 +1,11 @@
 Summary:	Simple screen locker
 Name:		i3lock
-Version:	2.6
+Version:	2.7
 Release:	1
 License:	BSD
 Group:		X11/Applications
 Source0:	http://i3wm.org/i3lock/%{name}-%{version}.tar.bz2
-# Source0-md5:	46870f347f474a894ec8044717b4d925
+# Source0-md5:	7ac6cc52a08be10536d3f8d32cb83b45
 Source1:	%{name}.pamd
 BuildRequires:	cairo-devel
 BuildRequires:	libev-devel
